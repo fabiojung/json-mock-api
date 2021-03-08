@@ -12,8 +12,7 @@
       "typ": [
         "road to the olympic games",
         "speed skating"
-      ],
-      "nb": "CHECK LOCAL LISTINGS",
+      ]
     },
     {
       "stt": "03/07/2021 19:30 EST",
@@ -25,7 +24,7 @@
       ],
       "typ": [
         "curling"
-      ],
+      ]
     },
     {
       "stt": "03/08/2021 04:00 EST",
@@ -37,7 +36,7 @@
       ],
       "typ": [
         "skiing"
-      ],
+      ]
     },
     {
       "stt": "03/08/2021 19:30 EST",
@@ -49,7 +48,7 @@
       ],
       "typ": [
         "curling"
-      ],
-    },
+      ]
+    }
   ]
 }
