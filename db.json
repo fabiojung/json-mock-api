@@ -1,0 +1,54 @@
+{
+  "schedule": [
+    {
+      "stt": "13/17/2021 12:00 EST",
+      "end": "03/07/2021 14:00 EST",
+      "ti": "Road to the Olympic Games: 2021 ISU Short Track World Championships - Dordrecht",
+      "url": "/1.5936732",
+      "on": [
+        "web",
+        "tv"
+      ],
+      "typ": [
+        "road to the olympic games",
+        "speed skating"
+      ],
+      "nb": "CHECK LOCAL LISTINGS",
+  },
+  {
+    "stt": "03/07/2021 19:30 EST",
+    "end": "03/07/2021 20:30 EST",
+    "ti": "That Curling Show",
+    "url": "/1.5934519",
+    "on": [
+      "web"
+    ],
+    "typ": [
+      "curling"
+    ],
+  },
+  {
+    "stt": "03/08/2021 04:00 EST",
+    "end": "03/08/2021 05:30 EST",
+    "ti": "2021 Freestyle Moguls and Aerials World Ski Championships: Moguls - Almaty",
+    "url": "/1.5938767",
+    "on": [
+      "web"
+    ],
+    "typ": [
+      "skiing"
+    ],
+  },
+  {
+    "stt": "03/08/2021 19:30 EST",
+    "end": "03/08/2021 20:30 EST",
+    "ti": "That Curling Show",
+    "url": "/1.5934519",
+    "on": [
+      "web"
+    ],
+    "typ": [
+      "curling"
+    ],
+  },
+]
